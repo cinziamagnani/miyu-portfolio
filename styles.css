@@ -1,0 +1,82 @@
+body {
+    background-image: url(/media/background-finished.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon {
+    width: 100px;
+    height: auto;
+}
+
+#book {
+    position: absolute;
+    top: 28vh;
+    left: 12vw;
+}
+
+#globe {
+    position: absolute;
+    top: 16vh;
+    left: 24vw;
+}
+
+#letter {
+    position: absolute;
+    top: 55vh;
+    left: 20vw;
+}
+
+#hand {
+    position: absolute;
+    top: 36vh;
+    left: 38vw;
+}
+
+#operations {
+    position: absolute;
+    top: 43vh;
+    left: 46vw;
+}
+
+#paint {
+    position: absolute;
+    top: 53vh;
+    left: 54vw;
+}
+
+#sponge {
+    position: absolute;
+    top: 50vh;
+    left: 65vw;
+}
+
+#bowl {
+    position: absolute;
+    top: 30vh;
+    left: 75vw;
+}
+
+#rice {
+    position: absolute;
+    top: 38vh;
+    left: 80vw;
+}
+
+#carrot {
+    position: absolute;
+    top: 46vh;
+    left: 86vw;
+}
+
+#paper {
+    position: absolute;
+    top: 72vh;
+    left: 25vw;
+}
+
+#rope {
+    position: absolute;
+    top: 83vh;
+    left: 32vw;
+}
